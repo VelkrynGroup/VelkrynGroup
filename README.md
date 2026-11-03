@@ -35,7 +35,7 @@
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ВАШ_ЛОГИН&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=VelkrynGroup&color=green&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <!--
